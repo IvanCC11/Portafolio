@@ -1,6 +1,6 @@
 # Portafolio
-## Portafolio Personal
+## Mi nombre es Ivan Campos Ceron
 ---
-`Mi nombre es Ivan Campos Ceron`
+`Ingeniero Geofisíco || Desarrollador Java Full Stack`
 ---
 `Portafolio en proceso`
